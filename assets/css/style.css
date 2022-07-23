@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fiverr{
+    gap: 10px;
+}
+
+.fiverr .my-3{
+    flex: 1;
+}
+.counter{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.bar{
+    width: 100%;
+    height: 10px;
+    background-color: red;
+    border-radius: 10px;
+    display: none;
+}
+.pervla{
+    margin: 10px 0px;
+}
